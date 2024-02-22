@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Stars Academy Home',
-  tagline: 'Coming Soon!',
+  tagline: 'Coming Soon!!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
